@@ -11,8 +11,8 @@
 This application is an example of an e-commerce application that uses Redux for global state control, React, Node.js and Express.js, and MongoDB. (MERN Stack) Stripe is used for payments.  
 
 ## Installation
-clone the repo
-run `npm install` 
+clone the repo and then 
+run `npm install` and then 
 run `npm start` 
 
 ## Usage
